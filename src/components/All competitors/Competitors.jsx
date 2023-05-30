@@ -1,5 +1,5 @@
 import style from './competitors.module.scss'
-import Competitor from '../competitor/competitor'
+import Competitor from '../A competitor/Competitor'
 import { useSelector } from 'react-redux'
 const Competitors = () => {
     const {competitors} = useSelector((store) => store.competitor)

@@ -1,7 +1,7 @@
 import Header from './components/header/Header'
 import VoteModal from './components/modal/VoteModal'
 import Timer from './components/timer/Timer'
-import Competitors from './components/competitors/Competitors'
+import Competitors from './components/All competitors/Competitors'
 import { Toaster } from 'react-hot-toast'
 import { Route, Routes } from 'react-router'
 const App = () => {
